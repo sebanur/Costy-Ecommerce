@@ -19,4 +19,4 @@
 
 <h2>Preview</h2>
 
-! [](Costy.gif)
+![](Costy.gif)
